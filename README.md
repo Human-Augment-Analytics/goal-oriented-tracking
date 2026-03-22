@@ -180,6 +180,13 @@ The goal-first approach succeeds if experimental groups show:
 
 ---
 
+## Midterm Report
+
+- [Initiative Questions](midterm-initiative-questions.md)
+- [Operations Questions](midterm-operations-questions.md)
+
+---
+
 ## Questions or Feedback?
 
 This is an experimental initiative. Your feedback will help refine the approach for future research teams.
