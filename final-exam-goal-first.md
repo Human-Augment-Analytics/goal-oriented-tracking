@@ -58,7 +58,7 @@ All work is organized into three levels:
 
 - **Initiatives** are the high-level outcomes the team is working toward over a semester or longer. They define what success looks like. Examples: publish a paper, speak at a conference, develop a novel model architecture.
 - **Goals** are concrete, measurable deliverables that move the team closer to completing an Initiative. Each Goal must logically connect to an Initiative. If you can't draw a clear line from a Goal to an Initiative, reconsider the Goal. Examples: close the chamfer distance to an acceptable publishing threshold, complete a literature review, submit a test paper.
-- **Tasks** are smaller units of work done to achieve a Goal. Tasks are intentionally de-emphasized. Researchers may track them informally, but they are not the focus of the Kanban board or sync meetings.
+- **Tasks** are smaller units of work done to achieve a Goal. Tasks are assigned to individual researchers and tracked on the board under their parent Goal. They are not the primary unit of measurement, but completed tasks are how you track incremental progress toward a Goal.
 
 ### Core Principle
 
@@ -79,7 +79,7 @@ Team communication, goal tracking, and work artifacts all live in one place. No 
 
 ### Phase 1: Initial Setup (First Week)
 
-**Estimated time:** 15 to 30 minutes
+**Estimated time:** 30 to 45 minutes (Steps 1 through 4), plus a 30 to 45 minute kickoff meeting (Step 5)
 
 #### Step 1: Define Initiatives
 
@@ -132,7 +132,7 @@ Hold a brief kickoff meeting (30 to 45 minutes) with the full team to:
 - Walk through the board and explain the column structure.
 - Explain that Goals are the primary unit of tracking, not individual tasks.
 - Break each Goal down into tasks with the team. Assign each task to a specific researcher so ownership is clear. Tasks are not the primary unit of measurement, but completed tasks are how you track incremental progress toward a Goal.
-- During syncs, closing completed tasks gives you a natural record of what each researcher accomplished that week. This can serve as the basis for the weekly operational report you communicate to HAAG admins.
+- During syncs, closing completed tasks gives you a natural record of what each researcher accomplished that week. This serves as the basis for the weekly operational report you communicate to HAAG admins.
 - Clarify that researchers only need to move their cards and give verbal updates during syncs. They don't need to write reports or maintain the board.
 - Answer any questions.
 
@@ -161,7 +161,7 @@ Hold a brief kickoff meeting (30 to 45 minutes) with the full team to:
 
 **What NOT to do in the sync:**
 
-- Don't ask each researcher to list every task they completed.
+- Don't ask each researcher to list every task they completed outside of the sync.
 - Don't turn the sync into a status report meeting.
 - Keep the focus on goal progress, not individual activity.
 
@@ -186,7 +186,6 @@ Researchers are **not** expected to:
 
 - Write progress reports for this system.
 - Maintain the board or add context to cards.
-- Track individual tasks on the board.
 
 #### Handling Administrative Reporting
 
@@ -217,7 +216,7 @@ The full Kanban board with all columns visible. Each card represents a Goal, org
 
 ![Goal and Task View](images/GoalTaskView.png)
 
-An individual Goal card with tasks listed underneath. Tasks are tracked informally by the researcher and are not the primary focus of the board.
+An individual Goal card with tasks listed underneath. Tasks are assigned to specific researchers and closed during syncs as work is completed.
 
 ---
 
@@ -254,10 +253,11 @@ No new tools need to be installed. No new accounts need to be created. The syste
 - [ ] Create Slack Lists Kanban board in the team channel
 - [ ] Set up columns: Not Started, In Progress, Completed, Verified, Blocked
 - [ ] Load Goals onto the board with labels and context
-- [ ] Hold kickoff meeting with the team
+- [ ] Hold kickoff meeting: walk through board, create tasks under Goals, assign tasks to researchers
 
 ### Every Week
 - [ ] Run 15-minute sync meeting focused on goal progress
+- [ ] Close completed tasks during the sync
 - [ ] Update board with information from Slack and meetings
 - [ ] Add context to Goal cards (links, threads, notes)
 - [ ] Monitor for stalled or blocked Goals
