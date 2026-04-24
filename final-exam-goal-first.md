@@ -12,7 +12,7 @@ The intended audience is team managers. Researchers, computational advisors, and
 
 The initiative was introduced to the CDDM research group through a kickoff meeting with the primary manager, where the Slack Kanban board and goal-first methodology were walked through in detail. The lead researcher noted that the existing PDF-based weekly progress report takes too much time for the value it provides. This aligns with the initiative's goal of reducing reporting overhead while improving visibility. The faculty advisor expressed support for the general approach.
 
-Semi-weekly syncs with the lead researcher were established to review goal progress and velocity. By the time the procedure was fully solidified, the CDDM team was already in the final phases of paper writing. Introducing a new tracking workflow at that stage would have caused a non-trivial disruption to a team sprinting toward submission. This procedure is best suited for newer teams that are still establishing their workflows, not mature teams in the final stretch before a deadline.
+Semi-weekly syncs with the lead researcher were established to review goal progress. By the time the procedure was fully solidified, the CDDM team was already in the final phases of paper writing. Introducing a new tracking workflow at that stage would have caused a non-trivial disruption to a team sprinting toward submission. This procedure is best suited for newer teams that are still establishing their workflows, not mature teams in the final stretch before a deadline.
 
 Observations throughout the semester reinforced the need for this kind of system. One example: a multi-week delay occurred when the team had to pivot research directions without structured goal-level visibility. The HAAG Progress Tracking System already emphasizes visibility and progress monitoring. This initiative adds a structured, goal-oriented layer that complements existing reporting and escalation workflows.
 
@@ -201,7 +201,7 @@ At least once per month (or at natural semester checkpoints), you should:
 1. **Review the full board** with the lead researcher or professor.
 2. **Assess Initiative progress.** Are the completed Goals actually moving the team closer to the Initiative? Or is effort going toward work that doesn't connect?
 3. **Adjust Goals.** Add new ones that have emerged, remove ones that are no longer relevant, re-prioritize as needed.
-4. **Check velocity.** Are Goals moving through the board at a pace that will meet the semester deadline? If not, identify what is slowing things down.
+4. **Check pacing.** Are Goals moving through the board at a pace that will meet the semester deadline? If not, identify what is slowing things down.
 
 ---
 
@@ -228,7 +228,6 @@ Track the following KPIs over time to evaluate the effectiveness of the goal-fir
 | KPI | What It Measures | How to Track |
 |---|---|---|
 | **Goal Achievement Rate** | Percentage of Goals completed on time relative to the semester timeline | Count Verified Goals vs. total Goals at end of semester |
-| **Velocity** | How quickly Goals move from "Not Started" to "Verified" | Track dates when Goals change columns |
 | **Blocker Duration** | How long Goals remain in "Blocked" before resolution | Track dates when Goals enter and exit "Blocked" |
 | **Researcher Sentiment** | How researchers feel about the method and tooling | Brief informal check-in or survey at end of semester |
 
@@ -268,4 +267,4 @@ No new tools need to be installed. No new accounts need to be created. The syste
 - [ ] Review full board with lead researcher or professor
 - [ ] Assess whether completed Goals are driving Initiative progress
 - [ ] Adjust, add, or remove Goals as needed
-- [ ] Check velocity against semester deadlines
+- [ ] Check pacing against semester deadlines
